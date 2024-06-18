@@ -24,4 +24,7 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .bg-gradient-primary{
+    background: linear-gradient(135deg, rgba(0,0,204,1) 0%, rgba(196,0,255,1) 100%);
+  }
 }
