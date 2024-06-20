@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <footer className="bg-gradient-primary text-gray-100">
+    <footer className="bg-gradient-primary text-gray-100 mt-10">
   <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
     <div className="flex justify-center">
     <p className='font-bold text-2xl '>Salem 

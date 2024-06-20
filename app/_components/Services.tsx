@@ -28,7 +28,7 @@ export default function
                         <div className="icon">
                           <Image src={codingicon} alt='design service' priority width={45} height={45}/>
                         </div>
-                        <h3 className='font-semibold text-2xl'>web Design</h3>
+                        <h3 className='font-semibold text-2xl'>web Development</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
                     </div>
                     
