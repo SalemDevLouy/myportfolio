@@ -17,9 +17,10 @@ export default function Hero() {
         </h1>
         <div className='text-gray-100 flex flex-col md:flex-row items-center gap-2 capitalize'>
           <span className='h-[3px] w-24 bg-white'></span>
-          <p className='text-2xl'>web developer</p>
-          <span></span>
+          <p className='text-2xl'>Frontend web developer</p>
+          
         </div>
+        
         </div>
         
       </div>
